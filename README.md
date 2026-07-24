@@ -1,3 +1,3 @@
 # ATTENTION
 
-please double check with datasheet before production ;)
+please double check with your datasheet before production ;)
